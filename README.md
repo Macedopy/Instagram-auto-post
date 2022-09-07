@@ -8,9 +8,9 @@
 Aqui tem um vídeo demonstrativo do aplicativo, aproveite!
   
 https://streamable.com/ljsv7z
-<div>
-  <a href="https://streamable.com/ljsv7z">
-    <img src=https://streamable.com/ljsv7z>
-</div>
+
+### Imagens do Projeto:
+
+Abaixo contém a tela inical onde se colocam as informações e por fim o botão "Send" para o programa ser executado
 
 ![image](https://user-images.githubusercontent.com/108029211/189004529-d10a0e23-0e79-40a0-a3b7-ddc66092cbed.png)
