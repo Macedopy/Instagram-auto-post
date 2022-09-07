@@ -7,6 +7,7 @@
   
 Aqui tem um vídeo demonstrativo do aplicativo, aproveite!
   
+https://streamable.com/ljsv7z
 <div>
   <a href="https://streamable.com/ljsv7z">
     <img src=https://streamable.com/ljsv7z>
