@@ -3,7 +3,7 @@
 
 <div>
   <img height="50cm" src=http://ForTheBadge.com/images/badges/made-with-python.svg>
-<\div>
+</div>
   
 Aqui tem um vídeo demonstrativo do aplicativo, aproveite!
   
