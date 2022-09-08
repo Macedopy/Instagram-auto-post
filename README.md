@@ -13,7 +13,7 @@ https://streamable.com/ljsv7z
 
 ### Project Images:
 
-contains an initial screen where it is presented below as information and finally the "Send" button for the program to be executed
+Contains an initial screen where it is presented below as information and finally the "Send" button for the program to be executed
 
 ![image](https://user-images.githubusercontent.com/108029211/189004529-d10a0e23-0e79-40a0-a3b7-ddc66092cbed.png)
 
